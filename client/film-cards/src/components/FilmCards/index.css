@@ -1,0 +1,23 @@
+.img-filcard{
+    width: 200px;
+}
+.title-carfil{
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.price-carfil{
+    font-size: 15px;
+}
+img{
+    width: 100%;
+}
+@media screen and (max-width:1260px) {
+    .img-filcard{
+        width: 300px;
+    }  
+}
+@media screen and (max-width:500px) {
+    .img-filcard{
+        width: 250px;
+    }  
+}
